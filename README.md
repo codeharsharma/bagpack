@@ -1,4 +1,4 @@
 # bagpack
-This App allows users to create accounts for planning trips.
-The users can add and remove trips.
+
+The users can add and remove item.
 Travellers add and remove checklist and to-do items.
